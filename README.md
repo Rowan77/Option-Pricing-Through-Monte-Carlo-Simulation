@@ -61,7 +61,7 @@ Open the Jupyter Notebook:
 ```bash
 jupyter notebook
 Then, navigate to Quant_Method_CW_K23023533.ipynb in your browser. The notebook guides you through the process of using Monte Carlo methods for option pricing, including input parameters, simulation processes, and results analysis.
-
+```
 ### Example
 To run the Monte Carlo simulation for a simple European call option with a given set of parameters, simply set the parameters in the notebook and execute the code cells step by step.
 
