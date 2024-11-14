@@ -8,8 +8,6 @@ This repository contains a Jupyter Notebook that applies Monte Carlo Simulation 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Methods](#methods)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
